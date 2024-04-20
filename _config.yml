@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Chengyao Deng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "University of Chinese Academy of Sciences"
   location         : "Beijing,China"
-  employer         : "University of Chinese Academy of Sciences"
+  employer         : "IHEP"
   uri              : # URL
   email            : "dengcy@ihep.ac.cn" 
 
