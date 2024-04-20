@@ -4,7 +4,7 @@ collection: educations
 type: "Workshop"
 permalink: /teaching/Bachelor's degree
 venue: "University 2, Department"
-date: "2018-2022"
+date: 2018-2022
 location: "Beijing, China"
 ---
 
