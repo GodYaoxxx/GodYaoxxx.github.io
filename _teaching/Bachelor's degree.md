@@ -4,7 +4,7 @@ collection: educations
 type: "Mechanical Engineering"
 permalink: /teaching/Undergraduate student
 venue: "School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University"
-date: "Sep.2018–Jun.2022"
+date: Sep.2018–Jun.2022
 location: "City, Country"
 ---
 
