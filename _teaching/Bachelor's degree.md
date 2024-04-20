@@ -1,6 +1,11 @@
 ---
 title: "Bachelor's degree"
 collection: educations
+type: "Workshop"
+permalink: /teaching/Bachelor's degree
+venue: "University 2, Department"
+date: 2022
+location: "Beijing, China"
 ---
 
 School
