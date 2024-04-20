@@ -4,7 +4,7 @@ collection: educations
 type: "Workshop"
 permalink: /teaching/Bachelor's degree
 venue: "University 2, Department"
-date: Sep.2023–Present 
+date: 2023–2026
 location: "City, Country"
 ---
 
