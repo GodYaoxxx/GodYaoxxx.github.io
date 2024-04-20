@@ -24,7 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Chengyao Deng"
   pronouns         : # example: "she/her"  
-  bio              : "University of Chinese Academy of Sciences(UCAS)\nComputer Technology, Institute of High Energy Physics"
+  bio: |
+  University of Chinese Academy of Sciences (UCAS)
+  Computer Technology, Institute of High Energy Physics
   location         : "Beijing, China"
   employer         : "IHEP, CAS"
   uri              : # URL
