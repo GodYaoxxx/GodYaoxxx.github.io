@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
+title: "Master degree student"
+collection: educations
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/Master degree student
+venue: "University 2, Department"
 date: 2015-01-01
 location: "City, Country"
 ---
