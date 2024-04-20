@@ -2,6 +2,7 @@
 title: "Bachelor's degree"
 collection: educations
 ---
+
 School
 ======
 Beijing Jiaotong University
