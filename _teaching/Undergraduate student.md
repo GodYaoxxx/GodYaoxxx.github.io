@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate student"
+title: "Bachelor's degree"
 collection: educations
 type: "Mechanical Engineering"
 permalink: /teaching/Undergraduate student
