@@ -1,10 +1,10 @@
 ---
 title: "Undergraduate student"
 collection: educations
-type: "Undergraduate course"
+type: "Mechanical Engineering"
 permalink: /teaching/Undergraduate student
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University"
+date: "Sep.2018–Jun.2022"
 location: "City, Country"
 ---
 
