@@ -1,24 +1,20 @@
 ---
 title: "Bachelor's degree"
 collection: educations
+type: "Workshop"
+permalink: /teaching/Bachelor's degree
+venue: "University 2, Department"
+date: Sep.2023–Present 
+location: "City, Country"
 ---
 
-School
-======
-Beijing Jiaotong University
+This is a description of a teaching experience. You can use markdown like any other post.
 
-Department
+Heading 1
 ======
-School of Mechanical, Electronic and Control Engineering
 
-Major
+Heading 2
 ======
-Mechanical Engineering
 
-Date
+Heading 3
 ======
-Sep.2018–Jun.2022
-
-Local
-======
-Beijing，China
