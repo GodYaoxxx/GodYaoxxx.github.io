@@ -2,7 +2,7 @@
 title: "Master's degree"
 collection: educations
 type: "Workshop"
-permalink: /teaching/Master degree student
+permalink: /teaching/Master's degree student
 venue: "University 2, Department"
 date: Sep.2023–Present 
 location: "City, Country"
