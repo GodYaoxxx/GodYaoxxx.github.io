@@ -1,5 +1,5 @@
 ---
-title: "Master degree student"
+title: "Master's degree"
 collection: educations
 type: "Workshop"
 permalink: /teaching/Master degree student
