@@ -1,16 +1,8 @@
 # main links links
 main:
- - title: "Educations"
-    url: /education/
 
-  - title: "News"
-    url: /new/
-    
   - title: "Publications"
     url: /publications/
-
-  - title: "Honours and Awards"
-    url: /Honours and awards/
 
   - title: "Talks"
     url: /talks/    
