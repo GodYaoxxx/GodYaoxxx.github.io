@@ -5,7 +5,7 @@ type: "Workshop"
 permalink: /teaching/Master's degree student
 venue: "University 2, Department"
 date: Sep.2023–Present 
-location: "City, Country"
+location: "Beijing, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
