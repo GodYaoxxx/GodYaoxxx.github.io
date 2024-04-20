@@ -20,3 +20,4 @@ My research interests include
 [Magnetic Robot](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=search_authors&mauthors=label%3AMagnetic_Robot&btnG=)
 [Microrobot](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=search_authors&mauthors=label:microrobot)
 [Bioinspired robot](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=search_authors&mauthors=label:bioinspired_robot)
+[AI](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=search_authors&mauthors=label%3AAI&btnG=)
