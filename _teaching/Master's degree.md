@@ -1,11 +1,11 @@
 ---
 title: "Master's degree"
 collection: education
-type: "Workshop"
+type: "Computer Technology"
 permalink: /teaching/Bachelor's degree
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Institute of High Energy Physics, Chinese Academy of Sciences"
+date: 2023.09-Now
+location: "Beijing, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
