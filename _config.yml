@@ -37,6 +37,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0222-4441"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58415001600"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
