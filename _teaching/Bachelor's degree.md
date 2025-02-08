@@ -11,28 +11,28 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Institution
 ======
-- {{ page.institution }} 
+- {{ page.institution }}
 
 Department
 ======
-- {{ page.department }} 
+- {{ page.department }}
 
 Major
 ======
-- {{ page.major }} 
+- {{ page.major }}
 
 Date
 ======
-- {{ page.date }}  
+- {{ page.date }}
 
 Location
 ======
-- {{ page.location }} 
+- {{ page.location }}
 
 ## Institution
-- {{ page.institution }}  
+- {{ page.institution }}
 ## Department
-- {{ page.department }}  
+- {{ page.department }}
 ## Major
 - {{ page.major }}  
 ## Date
