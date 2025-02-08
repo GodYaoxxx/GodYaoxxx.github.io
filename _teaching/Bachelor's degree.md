@@ -3,6 +3,7 @@ title: "Bachelor's Degree"
 ---
 **Institution**: Beijing Jiaotong University 
 **Department**: School of Mechanical, Electronic and Control Engineering
+**Major**: Mechanical Engineering
 **Date**: 2018.09 - 2022.06
 **Location**: Beijing, China  
 
