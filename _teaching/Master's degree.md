@@ -1,7 +1,7 @@
 ---
 title: "Master's degree"
 collection: education
-type: "Computer Technology"
+type: "2023.09-2026.07"
 permalink: /teaching/Bachelor's degree
 venue: "Institute of High Energy Physics, Chinese Academy of Sciences"
 date: 2023.09-Now
