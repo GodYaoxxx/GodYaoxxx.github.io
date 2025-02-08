@@ -7,9 +7,13 @@ date: "2018.09 - 2022.06"
 location: "Beijing, China"
 ---
 
-## 教育经历
-- **Institution**: {{ page.institution }}  
-- **Department**: {{ page.department }}  
-- **Major**: {{ page.major }}  
-- **Date**: {{ page.date }}  
-- **Location**: {{ page.location }} 
+## Institution
+- {{ page.institution }}  
+## Department
+- {{ page.department }}  
+## Major
+- {{ page.major }}  
+## Date
+- {{ page.date }}  
+## Location
+- {{ page.location }} 
