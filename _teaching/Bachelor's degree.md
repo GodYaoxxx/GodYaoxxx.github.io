@@ -4,7 +4,7 @@ collection: education
 type: "Mechanical Engineering "
 permalink: /teaching/Bachelor's degree
 venue: "School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University"
-date: 2014-01-01
+date: 2018-2022
 location: "Beijing, China"
 ---
 
