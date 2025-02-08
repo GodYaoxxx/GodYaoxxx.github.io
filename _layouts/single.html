@@ -26,20 +26,19 @@ layout: default
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
           {% if page.modified %}
-          <p class="page__date">
-            <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
-            <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>
-          </p>
+            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> 
+              <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>
+            </p>
           {% endif %}
           
-          <!-- 在这里整理展示机构、专业和日期 -->
-          {% assign display_info = "" %}
-          {% if page.major %}{% assign display_info = display_info | append: page.major | append: ", " %}{% endif %}
-          {% if page.institution %}{% assign display_info = display_info | append: page.institution | append: ", " %}{% endif %}
-          {% if page.date %}{% assign display_info = display_info | append: page.date | append: "" %}{% endif %}
-          {% if display_info != "" %}
-            <p>{{ display_info | remove: ", $" }}</p>
-          {% endif %}
+          <!-- 合并展示专业、机构和日期 -->
+          <p>
+            {% if page.major %}**Major**: {{ page.major }}{% endif %}
+            {% if page.major and page.institution %}, {% endif %}
+            {% if page.institution %}**Institution**: {{ page.institution }}{% endif %}
+            {% if page.institution and page.date %}, {% endif %}
+            {% if page.date %}**Date**: {{ page.date }}{% endif %}
+          </p>
         </header>
       {% endunless %}
       
@@ -52,12 +51,14 @@ layout: default
         {% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
+      
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
         {% include page__taxonomy.html %}
       </footer>
+      
       {% if page.share %}{% include social-share.html %}{% endif %}
       {% include post_pagination.html %}
     </div>
@@ -67,6 +68,7 @@ layout: default
     {% endif %}
   </article>
   
+  {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
       {% if site.data.ui-text[site.locale].related_label %}
