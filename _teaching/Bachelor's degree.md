@@ -1,9 +1,9 @@
 ---
-title: "Bachelor's degree"
+title: "Bachelor's Degree"
 collection: education
-permalink: /teaching/Bachelor's degree
-venue: "School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University"
-date: 2018.09-2022.06
+permalink: /teaching/bachelor's-degree
+affiliation: "School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University"
+date: "2018.09 - 2022.06"
 location: "Beijing, China"
 ---
 
