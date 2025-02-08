@@ -30,15 +30,6 @@ layout: default
               <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>
             </p>
           {% endif %}
-          
-          <!-- 合并展示专业、机构和日期 -->
-          <p>
-            {% if page.major %}**Major**: {{ page.major }}{% endif %}
-            {% if page.major and page.institution %}, {% endif %}
-            {% if page.institution %}**Institution**: {{ page.institution }}{% endif %}
-            {% if page.institution and page.date %}, {% endif %}
-            {% if page.date %}**Date**: {{ page.date }}{% endif %}
-          </p>
         </header>
       {% endunless %}
       
