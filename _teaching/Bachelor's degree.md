@@ -8,12 +8,10 @@ location: "Beijing, China"
 ---
 
 ## **Bachelor's Degree**
-**学校**: {{ page.affiliation }}  
-**日期**: {{ page.date }}  
-**地点**: {{ page.location }}  
-
-### 教育经历描述
-这是一次教学经历的描述。您可以使用Markdown进行各种格式化。
+**Institution**: Beijing Jiaotong University 
+**Department**: School of Mechanical, Electronic and Control Engineering
+**Date**: 2018.09 - 2022.06
+**Location**: Beijing, China  
 
 ### 专业
 **机械工程**
