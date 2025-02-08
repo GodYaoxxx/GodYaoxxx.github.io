@@ -28,14 +28,3 @@ Date
 Location
 ======
 - {{ page.location }}
-
-## Institution
-- {{ page.institution }}
-## Department
-- {{ page.department }}
-## Major
-- {{ page.major }}  
-## Date
-- {{ page.date }}  
-## Location
-- {{ page.location }} 
