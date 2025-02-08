@@ -5,7 +5,7 @@ permalink: /publication/Phase transition reversible 3D printing of magnetic thix
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-11-01
 venue: 'Applied Materials Today'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf](https://linkinghub.elsevier.com/retrieve/pii/S2352940723001907'
+paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S2352940723001907'
 citation: 'Li, Z., Dong, J., Zhang, S., Li, Y., Deng, C., Li, D., Cui, H., Li, Z., Song, Z., Yao, J., & Qu, J. (2023). Phase transition reversible 3D printing of magnetic thixotropic fluid. Applied Materials Today, 34, 101920. Q1. https://doi.org/10.1016/j.apmt.2023.101920
 '
 ---
