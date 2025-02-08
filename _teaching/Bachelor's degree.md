@@ -1,30 +1,20 @@
 ---
-title: "Bachelor's Degree"
-institution: "Beijing Jiaotong University"
-department: "School of Mechanical, Electronic and Control Engineering"
-major: "Mechanical Engineering"
-date: "2018.09 - 2022.06"
+title: "Bachelor's degree"
+collection: education
+type: "Undergraduate course"
+permalink: /teaching/Bachelor's degree
+venue: "School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University"
+date: 2014-01-01
 location: "Beijing, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Institution
+Heading 1
 ======
-- {{ page.institution }}
 
-Department
+Heading 2
 ======
-- {{ page.department }}
 
-Major
+Heading 3
 ======
-- {{ page.major }}
-
-Date
-======
-- {{ page.date }}
-
-Location
-======
-- {{ page.location }}
