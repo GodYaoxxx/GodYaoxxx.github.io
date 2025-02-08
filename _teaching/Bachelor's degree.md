@@ -1,7 +1,7 @@
 ---
 title: "Bachelor's degree"
 collection: education
-type: "Undergraduate course"
+type: "Mechanical Engineering "
 permalink: /teaching/Bachelor's degree
 venue: "School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University"
 date: 2014-01-01
