@@ -7,13 +7,19 @@ date: "2018.09 - 2022.06"
 location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## **Bachelor's Degree**
+**学校**: {{ page.affiliation }}  
+**日期**: {{ page.date }}  
+**地点**: {{ page.location }}  
 
-Major: "Mechanical Engineering"
-======
+### 教育经历描述
+这是一次教学经历的描述。您可以使用Markdown进行各种格式化。
 
-Heading 2
-======
+### 专业
+**机械工程**
 
-Heading 3
-======
+### 其他标题 2
+这是第二级标题的描述。
+
+### 其他标题 3
+这是第三级标题的描述。
